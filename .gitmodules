@@ -166,3 +166,6 @@
 [submodule "mcollective"]
 	path = mcollective
 	url = git://github.com/example42/puppet-mcollective
+[submodule "proftpd"]
+	path = proftpd
+	url = https://github.com/leopku/puppet-proftpd.git
