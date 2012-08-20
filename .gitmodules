@@ -169,3 +169,6 @@
 [submodule "proftpd"]
 	path = proftpd
 	url = https://github.com/leopku/puppet-proftpd.git
+[submodule "ihaveu"]
+	path = ihaveu
+	url = git@58.68.247.40:puppet-ihaveu
