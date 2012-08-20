@@ -9,7 +9,7 @@
 	url = git://github.com/example42/puppet-solr.git
 [submodule "iptables"]
 	path = iptables
-	url = https://github.com/leopku/puppet-iptables.git
+	url = git://github.com/leopku/puppet-iptables.git
 [submodule "wordpress"]
 	path = wordpress
 	url = git://github.com/example42/puppet-wordpress.git
@@ -102,7 +102,7 @@
 	url = git://github.com/example42/puppet-puppetdb
 [submodule "postgresql"]
 	path = postgresql
-	url = https://github.com/example42/puppet-postgresql
+	url = git://github.com/example42/puppet-postgresql
 [submodule "foreman"]
 	path = foreman
 	url = git://github.com/example42/puppet-foreman
@@ -168,7 +168,7 @@
 	url = git://github.com/example42/puppet-mcollective
 [submodule "proftpd"]
 	path = proftpd
-	url = https://github.com/leopku/puppet-proftpd.git
+	url = git://github.com/leopku/puppet-proftpd.git
 [submodule "ihaveu"]
 	path = ihaveu
 	url = git@58.68.247.40:puppet-ihaveu
