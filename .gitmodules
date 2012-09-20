@@ -45,7 +45,7 @@
 	url = git://github.com/example42/puppet-haproxy.git
 [submodule "nginx"]
 	path = nginx
-	url = git://github.com/example42/puppet-nginx.git
+	url = git://github.com/leopku/puppet-nginx.git
 [submodule "mysql"]
 	path = mysql
 	url = git://github.com/example42/puppet-mysql.git
